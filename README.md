@@ -1,1 +1,1 @@
-This is a well optimised navbar with React.js
+This is a well optimised navbar component create with React.js
